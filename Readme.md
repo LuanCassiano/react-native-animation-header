@@ -1,6 +1,6 @@
 ## React Native Animation Header
 
-Para rodar o projeto basta rodar:
+Para instalar as dependências do projeto, rode:
 
 ```javascript
     yarn
